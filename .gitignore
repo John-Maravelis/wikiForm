@@ -1,0 +1,25 @@
+## Visual Studio 
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results (Compilations)
+[Bb]in/
+[Oo]bj/
+
+## SQLite Database
+MyFavorites.db
+*.db-shm
+*.db-wal
+
+## NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
